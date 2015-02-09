@@ -1,7 +1,7 @@
 var html = '';
 var token = "";
 var email = "daniel.quaidoo@gmail.com";
-var github = "https://github.com/DaCardinal/2040";
+var github = "https://github.com/DaCardinal/CODE2040";
 var credentials = {
     email: email,
     github: github
